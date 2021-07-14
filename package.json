@@ -1,6 +1,6 @@
 {
   "name": "oak-lazy-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script for lazyloading assets using Intersection Observer API",
   "main": "index.js",
   "scripts": {
