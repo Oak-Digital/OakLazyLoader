@@ -1,5 +1,5 @@
 /*!
- * OakLazyLoader 1.0.0
+ * OakLazyLoader 1.0.1
  * https://oakdigital.dk
  * 
  * @license Copyright 2021, Oak Digital. All rights reserved.
@@ -13,13 +13,13 @@ function OakLazyLoader() {
     ------------------------------------------------*/
     const _this = this;
 
-    let options = {
+    this.options = {
         threshold : [0, 0.25, 0.5, 0.75],
-        rootMargin: '250px',
+        rootMargin: '0px 0px 300px 0px',
     };
 
-    let assets = [];
-    let observer = {};
+    this.assets = [];
+    this.observer = {};
 
 
     /*------------------------------------------------
