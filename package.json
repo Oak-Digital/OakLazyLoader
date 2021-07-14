@@ -1,0 +1,25 @@
+{
+  "name": "oak-lazy-loader",
+  "version": "1.0.0",
+  "description": "Script for lazyloading assets using Intersection Observer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oak-Digital/OakLazyLoader.git"
+  },
+  "keywords": [
+    "js",
+    "lazyload",
+    "intersection",
+    "observer"
+  ],
+  "author": "Jakob Plenge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oak-Digital/OakLazyLoader/issues"
+  },
+  "homepage": "https://github.com/Oak-Digital/OakLazyLoader#readme"
+}
